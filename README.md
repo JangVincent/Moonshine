@@ -51,7 +51,7 @@ An API key from **at least one** of the following AI providers is required for e
 
 Download the latest release for your platform:
 
-**[GitHub Releases](https://github.com/Cognito-Distillery/moonshine/releases/latest)**
+**[GitHub Releases](https://github.com/JangVincent/moonshine/releases/latest)**
 
 | Platform    | File                 |
 | ----------- | -------------------- |
@@ -179,7 +179,7 @@ System Settings > Shortcuts > Custom Shortcuts > Add new shortcut with:
 
 ## MCP Server
 
-Access your knowledge graph from AI assistants like Claude, ChatGPT, and Gemini using the [Moonshine MCP Server](https://github.com/Cognito-Distillery/Moonshine-MCP).
+Access your knowledge graph from AI assistants like Claude, ChatGPT, and Gemini using the [Moonshine MCP Server](https://github.com/JangVincent/Moonshine-MCP).
 
 Search, browse, and edit mashes and relationships through natural conversation â€” no need to open the app.
 
@@ -188,7 +188,7 @@ Search, browse, and edit mashes and relationships through natural conversation â
   "mcpServers": {
     "moonshine": {
       "command": "npx",
-      "args": ["@cognito-distillery/moonshine-mcp"]
+      "args": ["@jangvincent/moonshine-mcp"]
     }
   }
 }

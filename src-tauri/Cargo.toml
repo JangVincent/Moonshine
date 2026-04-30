@@ -1,8 +1,10 @@
 [package]
 name = "moonshine"
-version = "0.1.5"
+version = "0.1.6"
 description = "Distill thoughts into aged knowledge."
-authors = ["Cognito-Distillery"]
+authors = ["JangVincent"]
+repository = "https://github.com/JangVincent/Moonshine"
+homepage = "https://github.com/JangVincent/Moonshine"
 license = "MIT"
 edition = "2021"
 

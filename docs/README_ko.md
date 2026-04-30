@@ -51,7 +51,7 @@ Moonshine은 **흩어진 생각을 지식 그래프로 정제하는** 독립형 
 
 플랫폼에 맞는 최신 릴리스를 다운로드하세요:
 
-**[GitHub Releases](https://github.com/Cognito-Distillery/moonshine/releases/latest)**
+**[GitHub Releases](https://github.com/JangVincent/moonshine/releases/latest)**
 
 | 플랫폼 | 파일 |
 |--------|------|
@@ -174,7 +174,7 @@ gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/or
 
 ## MCP 서버
 
-[Moonshine MCP Server](https://github.com/Cognito-Distillery/Moonshine-MCP)를 사용하면 Claude, ChatGPT, Gemini 등 AI 어시스턴트에서 지식 그래프에 직접 접근할 수 있습니다.
+[Moonshine MCP Server](https://github.com/JangVincent/Moonshine-MCP)를 사용하면 Claude, ChatGPT, Gemini 등 AI 어시스턴트에서 지식 그래프에 직접 접근할 수 있습니다.
 
 자연어 대화로 매시와 관계를 검색, 탐색, 편집할 수 있으며 앱을 열 필요가 없습니다.
 
@@ -183,7 +183,7 @@ gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/or
   "mcpServers": {
     "moonshine": {
       "command": "npx",
-      "args": ["@cognito-distillery/moonshine-mcp"]
+      "args": ["@jangvincent/moonshine-mcp"]
     }
   }
 }
