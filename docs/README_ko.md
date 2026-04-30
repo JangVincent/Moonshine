@@ -49,6 +49,15 @@ Moonshine은 **흩어진 생각을 지식 그래프로 정제하는** 독립형 
 
 ## 설치
 
+### Homebrew (macOS)
+
+```bash
+brew tap JangVincent/tap
+brew install --cask moonshine
+```
+
+### 직접 다운로드
+
 플랫폼에 맞는 최신 릴리스를 다운로드하세요:
 
 **[GitHub Releases](https://github.com/JangVincent/moonshine/releases/latest)**

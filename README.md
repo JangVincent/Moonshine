@@ -49,6 +49,15 @@ An API key from **at least one** of the following AI providers is required for e
 
 ## Installation
 
+### Homebrew (macOS)
+
+```bash
+brew tap JangVincent/tap
+brew install --cask moonshine
+```
+
+### Manual Download
+
 Download the latest release for your platform:
 
 **[GitHub Releases](https://github.com/JangVincent/moonshine/releases/latest)**
